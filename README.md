@@ -48,6 +48,3 @@ For inquiries, please reach out to:
 - **Aditya Sridhar** - aditya.sridharr.11@gmail.com
 - **GitHub**: [My GitHub profile](https://github.com/adityaSridharr)
 
-
-This `README.md` provides a clear introduction, methodology, usage instructions, and repository structure for your project. Let me know if you’d like any modifications!
-
