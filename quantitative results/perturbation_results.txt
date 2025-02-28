@@ -1,0 +1,1107 @@
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 11
+Feature Name: has_wing_color::iridescent
+Perturbation Required: 17.40603080677686
+Fraction of Perturbation Required: 3.6354570388793945
+Feature Value in Original Image: -4.7878522872924805
+Feature Value in Perturbed Image: 4.952805519104004
+
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 26
+Feature Name: has_upperparts_color::iridescent
+Perturbation Required: -17.808055311960242
+Fraction of Perturbation Required: 3.858981132507324
+Feature Value in Original Image: -4.614704132080078
+Feature Value in Perturbed Image: -15.140799522399902
+
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 157
+Feature Name: has_forehead_color::grey
+Perturbation Required: 18.181538614286783
+Fraction of Perturbation Required: 8.895804405212402
+Feature Value in Original Image: -2.043833017349243
+Feature Value in Perturbed Image: 9.226038932800293
+
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 208
+Feature Name: has_belly_color::black
+Perturbation Required: 17.770111293629032
+Fraction of Perturbation Required: 19.023311614990234
+Feature Value in Original Image: -0.9341229796409607
+Feature Value in Perturbed Image: 9.031072616577148
+
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 93
+Feature Name: has_upper_tail_color::buff
+Perturbation Required: -18.43180982442566
+Fraction of Perturbation Required: 4.254825115203857
+Feature Value in Original Image: -4.3319783210754395
+Feature Value in Perturbed Image: -14.361335754394531
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 294
+Feature Name: has_crown_color::brown
+Perturbation Required: -66.45919632992492
+Fraction of Perturbation Required: 18.692352294921875
+Feature Value in Original Image: -3.555421829223633
+Feature Value in Perturbed Image: -11.173637390136719
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 18
+Feature Name: has_wing_color::pink
+Perturbation Required: 71.11421784315728
+Fraction of Perturbation Required: 10.122035026550293
+Feature Value in Original Image: -7.025684356689453
+Feature Value in Perturbed Image: 0.5690014362335205
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 40
+Feature Name: has_underparts_color::brown
+Perturbation Required: 61.8666105731307
+Fraction of Perturbation Required: 11.727705955505371
+Feature Value in Original Image: -5.275252819061279
+Feature Value in Perturbed Image: 4.299183368682861
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 86
+Feature Name: has_upper_tail_color::olive
+Perturbation Required: -76.38440689898779
+Fraction of Perturbation Required: 16.276569366455078
+Feature Value in Original Image: -4.692905902862549
+Feature Value in Perturbed Image: -14.481739044189453
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 169
+Feature Name: has_under_tail_color::iridescent
+Perturbation Required: 86.9613037617457
+Fraction of Perturbation Required: 15.815376281738281
+Feature Value in Original Image: -5.498528957366943
+Feature Value in Perturbed Image: 1.8849817514419556
+
+Original Class: 009.Brewer_Blackbird
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 9
+Feature Name: has_wing_color::blue
+Perturbation Required: -119.72310667808327
+Fraction of Perturbation Required: 60.13764572143555
+Feature Value in Original Image: -1.990817904472351
+Feature Value in Perturbed Image: -14.830559730529785
+
+Original Class: 009.Brewer_Blackbird
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 38
+Feature Name: has_upperparts_color::buff
+Perturbation Required: 101.63506844268557
+Fraction of Perturbation Required: 19.365894317626953
+Feature Value in Original Image: -5.248147487640381
+Feature Value in Perturbed Image: 4.959174633026123
+
+Original Class: 009.Brewer_Blackbird
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 51
+Feature Name: has_underparts_color::white
+Perturbation Required: 148.69137463404584
+Fraction of Perturbation Required: 41.031837463378906
+Feature Value in Original Image: -3.623804807662964
+Feature Value in Perturbed Image: 7.466111660003662
+
+Original Class: 009.Brewer_Blackbird
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 185
+Feature Name: has_nape_color::purple
+Perturbation Required: 132.0205127535851
+Fraction of Perturbation Required: 19.87618637084961
+Feature Value in Original Image: -6.642145156860352
+Feature Value in Perturbed Image: 7.186782360076904
+
+Original Class: 009.Brewer_Blackbird
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 271
+Feature Name: has_leg_color::green
+Perturbation Required: -106.7246040680967
+Fraction of Perturbation Required: 22.612564086914062
+Feature Value in Original Image: -4.719703674316406
+Feature Value in Perturbed Image: -14.392228126525879
+
+Original Class: 013.Bobolink
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 274
+Feature Name: has_leg_color::black
+Perturbation Required: -14.008183022229277
+Fraction of Perturbation Required: 18.42707061767578
+Feature Value in Original Image: -0.7601959109306335
+Feature Value in Perturbed Image: -9.238882064819336
+
+Original Class: 013.Bobolink
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 172
+Feature Name: has_under_tail_color::grey
+Perturbation Required: -11.321118431875572
+Fraction of Perturbation Required: 7.147392749786377
+Feature Value in Original Image: -1.5839507579803467
+Feature Value in Perturbed Image: -9.045036315917969
+
+Original Class: 013.Bobolink
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 54
+Feature Name: has_breast_pattern::solid
+Perturbation Required: -8.701931519120919
+Fraction of Perturbation Required: 14.005763053894043
+Feature Value in Original Image: 0.621310830116272
+Feature Value in Perturbed Image: -4.5485920906066895
+
+Original Class: 013.Bobolink
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 123
+Feature Name: has_throat_color::purple
+Perturbation Required: 10.37093598786416
+Fraction of Perturbation Required: 1.9422272443771362
+Feature Value in Original Image: -5.339713096618652
+Feature Value in Perturbed Image: 1.3645143508911133
+
+Original Class: 013.Bobolink
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 146
+Feature Name: has_eye_color::white
+Perturbation Required: -8.862641255768322
+Fraction of Perturbation Required: 5.947580814361572
+Feature Value in Original Image: -1.4901254177093506
+Feature Value in Perturbed Image: -7.543365478515625
+
+Original Class: 015.Lazuli_Bunting
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 9
+Feature Name: has_wing_color::blue
+Perturbation Required: -107.10917024241614
+Fraction of Perturbation Required: 209.22723388671875
+Feature Value in Original Image: -0.5119274854660034
+Feature Value in Perturbed Image: -10.414421081542969
+
+Original Class: 015.Lazuli_Bunting
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 276
+Feature Name: has_leg_color::red
+Perturbation Required: -124.90110462244216
+Fraction of Perturbation Required: 23.13674545288086
+Feature Value in Original Image: -5.398387432098389
+Feature Value in Perturbed Image: -16.026918411254883
+
+Original Class: 015.Lazuli_Bunting
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 102
+Feature Name: has_head_pattern::eyeline
+Perturbation Required: 115.46340204883067
+Fraction of Perturbation Required: 29.666667938232422
+Feature Value in Original Image: -3.8920247554779053
+Feature Value in Perturbed Image: 10.66018009185791
+
+Original Class: 015.Lazuli_Bunting
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 311
+Feature Name: has_wing_pattern::multi-colored
+Perturbation Required: -95.1176684560568
+Fraction of Perturbation Required: 1002.4420776367188
+Feature Value in Original Image: -0.09488595277070999
+Feature Value in Perturbed Image: -11.643906593322754
+
+Original Class: 015.Lazuli_Bunting
+Perturbed Class: 002.Laysan_Albatross
+Feature Index: 68
+Feature Name: has_back_color::orange
+Perturbation Required: 105.86581821141642
+Fraction of Perturbation Required: 17.169015884399414
+Feature Value in Original Image: -6.166097164154053
+Feature Value in Perturbed Image: 4.622735977172852
+
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 29
+Feature Name: has_upperparts_color::grey
+Perturbation Required: -56.980089697534815
+Fraction of Perturbation Required: 96.81201934814453
+Feature Value in Original Image: -0.5885642170906067
+Feature Value in Perturbed Image: -14.816407203674316
+
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 71
+Feature Name: has_back_color::red
+Perturbation Required: -52.446206383678245
+Fraction of Perturbation Required: 11.257646560668945
+Feature Value in Original Image: -4.658718109130859
+Feature Value in Perturbed Image: -18.651050567626953
+
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 226
+Feature Name: has_shape::owl-like
+Perturbation Required: 42.52551404167148
+Fraction of Perturbation Required: 7.127809047698975
+Feature Value in Original Image: -5.9661407470703125
+Feature Value in Perturbed Image: 6.530081748962402
+
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 279
+Feature Name: has_bill_color::brown
+Perturbation Required: -54.13731364259054
+Fraction of Perturbation Required: 18.531932830810547
+Feature Value in Original Image: -2.9212987422943115
+Feature Value in Perturbed Image: -15.47654914855957
+
+Original Class: 008.Rhinoceros_Auklet
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 201
+Feature Name: has_belly_color::rufous
+Perturbation Required: 55.89729858707687
+Fraction of Perturbation Required: 8.749685287475586
+Feature Value in Original Image: -6.388492584228516
+Feature Value in Perturbed Image: 2.964878797531128
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 006.Least_Auklet
+Feature Index: 309
+Feature Name: has_wing_pattern::spotted
+Perturbation Required: -121.32960338178303
+Fraction of Perturbation Required: 37.058929443359375
+Feature Value in Original Image: -3.2739639282226562
+Feature Value in Perturbed Image: -15.488106727600098
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 006.Least_Auklet
+Feature Index: 50
+Feature Name: has_underparts_color::black
+Perturbation Required: -183.90497039136912
+Fraction of Perturbation Required: 200.0599822998047
+Feature Value in Original Image: 0.9192491173744202
+Feature Value in Perturbed Image: -9.989060401916504
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 006.Least_Auklet
+Feature Index: 60
+Feature Name: has_back_color::iridescent
+Perturbation Required: -166.7061403550877
+Fraction of Perturbation Required: 33.835079193115234
+Feature Value in Original Image: -4.927021026611328
+Feature Value in Perturbed Image: -15.322598457336426
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 006.Least_Auklet
+Feature Index: 166
+Feature Name: has_forehead_color::buff
+Perturbation Required: -152.0624032148662
+Fraction of Perturbation Required: 42.56371307373047
+Feature Value in Original Image: -3.5725834369659424
+Feature Value in Perturbed Image: -15.768692016601562
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 006.Least_Auklet
+Feature Index: 307
+Feature Name: has_crown_color::buff
+Perturbation Required: -91.16255992277328
+Fraction of Perturbation Required: 26.314231872558594
+Feature Value in Original Image: -3.4643824100494385
+Feature Value in Perturbed Image: -12.955327987670898
+
+Original Class: 013.Bobolink
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 287
+Feature Name: has_bill_color::pink
+Perturbation Required: 93.87182901251809
+Fraction of Perturbation Required: 13.621761322021484
+Feature Value in Original Image: -6.891313076019287
+Feature Value in Perturbed Image: 1.3828535079956055
+
+Original Class: 013.Bobolink
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 256
+Feature Name: has_primary_color::green
+Perturbation Required: -102.66491978278984
+Fraction of Perturbation Required: 16.452972412109375
+Feature Value in Original Image: -6.239900588989258
+Feature Value in Perturbed Image: -15.082562446594238
+
+Original Class: 013.Bobolink
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 80
+Feature Name: has_upper_tail_color::brown
+Perturbation Required: 86.07879871290669
+Fraction of Perturbation Required: 26.461210250854492
+Feature Value in Original Image: -3.2530181407928467
+Feature Value in Perturbed Image: 9.321398735046387
+
+Original Class: 013.Bobolink
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 169
+Feature Name: has_under_tail_color::iridescent
+Perturbation Required: 123.22536001395764
+Fraction of Perturbation Required: 17.520456314086914
+Feature Value in Original Image: -7.033227443695068
+Feature Value in Perturbed Image: 2.133514404296875
+
+Original Class: 013.Bobolink
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 198
+Feature Name: has_belly_color::brown
+Perturbation Required: -105.35833390182643
+Fraction of Perturbation Required: 24.351903915405273
+Feature Value in Original Image: -4.326492786407471
+Feature Value in Perturbed Image: -15.90516185760498
+
+Original Class: 014.Indigo_Bunting
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 1
+Feature Name: has_bill_shape::dagger
+Perturbation Required: 144.33440727693812
+Fraction of Perturbation Required: 25.220096588134766
+Feature Value in Original Image: -5.722991943359375
+Feature Value in Perturbed Image: 6.625469207763672
+
+Original Class: 014.Indigo_Bunting
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 60
+Feature Name: has_back_color::iridescent
+Perturbation Required: 161.528808843472
+Fraction of Perturbation Required: 36.529232025146484
+Feature Value in Original Image: -4.421905517578125
+Feature Value in Perturbed Image: 6.021270275115967
+
+Original Class: 014.Indigo_Bunting
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 80
+Feature Name: has_upper_tail_color::brown
+Perturbation Required: 127.69402365107767
+Fraction of Perturbation Required: 49.3267936706543
+Feature Value in Original Image: -2.588735580444336
+Feature Value in Perturbed Image: 7.428971290588379
+
+Original Class: 014.Indigo_Bunting
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 277
+Feature Name: has_leg_color::buff
+Perturbation Required: -139.8364691976896
+Fraction of Perturbation Required: 75.57395935058594
+Feature Value in Original Image: -1.8503261804580688
+Feature Value in Perturbed Image: -13.460792541503906
+
+Original Class: 014.Indigo_Bunting
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 154
+Feature Name: has_forehead_color::iridescent
+Perturbation Required: -193.9246110956903
+Fraction of Perturbation Required: 55.728485107421875
+Feature Value in Original Image: -3.479811429977417
+Feature Value in Perturbed Image: -15.129379272460938
+
+Original Class: 004.Groove_billed_Ani
+Perturbed Class: 001.Black_footed_Albatross
+Feature Index: 19
+Feature Name: has_wing_color::orange
+Perturbation Required: 465.9147452972959
+Fraction of Perturbation Required: 111.9305191040039
+Feature Value in Original Image: -4.162535190582275
+Feature Value in Perturbed Image: 12.116936683654785
+
+Original Class: 004.Groove_billed_Ani
+Perturbed Class: 001.Black_footed_Albatross
+Feature Index: 81
+Feature Name: has_upper_tail_color::iridescent
+Perturbation Required: -402.3149800190878
+Fraction of Perturbation Required: 145.1751251220703
+Feature Value in Original Image: -2.7712390422821045
+Feature Value in Perturbed Image: -20.586563110351562
+
+Original Class: 004.Groove_billed_Ani
+Perturbed Class: 001.Black_footed_Albatross
+Feature Index: 113
+Feature Name: has_breast_color::green
+Perturbation Required: -565.0319373669244
+Fraction of Perturbation Required: 114.66199493408203
+Feature Value in Original Image: -4.927804470062256
+Feature Value in Perturbed Image: -20.519004821777344
+
+Original Class: 004.Groove_billed_Ani
+Perturbed Class: 001.Black_footed_Albatross
+Feature Index: 242
+Feature Name: has_tail_pattern::striped
+Perturbation Required: 504.31309189877817
+Fraction of Perturbation Required: 126.7633056640625
+Feature Value in Original Image: -3.978383779525757
+Feature Value in Perturbed Image: 10.832364082336426
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 001.Black_footed_Albatross
+Feature Index: 19
+Feature Name: has_wing_color::orange
+Perturbation Required: 62.518107311469
+Fraction of Perturbation Required: 19.43201446533203
+Feature Value in Original Image: -3.217273473739624
+Feature Value in Perturbed Image: 11.558409690856934
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 001.Black_footed_Albatross
+Feature Index: 294
+Feature Name: has_crown_color::brown
+Perturbation Required: -47.44129226560636
+Fraction of Perturbation Required: 27.830322265625
+Feature Value in Original Image: -1.7046619653701782
+Feature Value in Perturbed Image: -8.29432201385498
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 001.Black_footed_Albatross
+Feature Index: 82
+Feature Name: has_upper_tail_color::purple
+Perturbation Required: -60.29191849404424
+Fraction of Perturbation Required: 12.192744255065918
+Feature Value in Original Image: -4.944901466369629
+Feature Value in Perturbed Image: -18.989078521728516
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 001.Black_footed_Albatross
+Feature Index: 95
+Feature Name: has_head_pattern::malar
+Perturbation Required: 49.68187351528806
+Fraction of Perturbation Required: 11.336556434631348
+Feature Value in Original Image: -4.382448673248291
+Feature Value in Perturbed Image: 1.5492910146713257
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 001.Black_footed_Albatross
+Feature Index: 168
+Feature Name: has_under_tail_color::brown
+Perturbation Required: 60.09606595272472
+Fraction of Perturbation Required: 13.159311294555664
+Feature Value in Original Image: -4.566809177398682
+Feature Value in Perturbed Image: 7.508511066436768
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 17
+Feature Name: has_wing_color::green
+Perturbation Required: 158.35636769455323
+Fraction of Perturbation Required: 18.287532806396484
+Feature Value in Original Image: -8.659253120422363
+Feature Value in Perturbed Image: 3.8857903480529785
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 252
+Feature Name: has_primary_color::rufous
+Perturbation Required: -242.453520861519
+Fraction of Perturbation Required: 83.27288818359375
+Feature Value in Original Image: -2.9115540981292725
+Feature Value in Perturbed Image: -15.75489616394043
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 177
+Feature Name: has_under_tail_color::orange
+Perturbation Required: 117.99508072534094
+Fraction of Perturbation Required: 13.579924583435059
+Feature Value in Original Image: -8.688935279846191
+Feature Value in Perturbed Image: 2.8814010620117188
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 257
+Feature Name: has_primary_color::pink
+Perturbation Required: 260.39856132074055
+Fraction of Perturbation Required: 33.808292388916016
+Feature Value in Original Image: -7.702210426330566
+Feature Value in Perturbed Image: 5.427938461303711
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 248
+Feature Name: has_primary_color::blue
+Perturbation Required: 156.93522973456663
+Fraction of Perturbation Required: 37.12819290161133
+Feature Value in Original Image: -4.226848125457764
+Feature Value in Perturbed Image: 14.89871883392334
+
+Original Class: 004.Groove_billed_Ani
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 8
+Feature Name: has_bill_shape::specialized
+Perturbation Required: 27.70153865948095
+Fraction of Perturbation Required: 8.600905418395996
+Feature Value in Original Image: -3.2207698822021484
+Feature Value in Perturbed Image: 9.4384183883667
+
+Original Class: 004.Groove_billed_Ani
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 158
+Feature Name: has_forehead_color::yellow
+Perturbation Required: -23.575176643324635
+Fraction of Perturbation Required: 7.360240459442139
+Feature Value in Original Image: -3.2030441761016846
+Feature Value in Perturbed Image: -11.227230072021484
+
+Original Class: 004.Groove_billed_Ani
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 116
+Feature Name: has_breast_color::black
+Perturbation Required: -19.08552095782608
+Fraction of Perturbation Required: 55.57529067993164
+Feature Value in Original Image: -0.3434174060821533
+Feature Value in Perturbed Image: -11.696589469909668
+
+Original Class: 004.Groove_billed_Ani
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 79
+Feature Name: has_upper_tail_color::blue
+Perturbation Required: -21.630281602292456
+Fraction of Perturbation Required: 7.68371057510376
+Feature Value in Original Image: -2.8150827884674072
+Feature Value in Perturbed Image: -14.690414428710938
+
+Original Class: 004.Groove_billed_Ani
+Perturbed Class: 003.Sooty_Albatross
+Feature Index: 198
+Feature Name: has_belly_color::brown
+Perturbation Required: -22.358483968934994
+Fraction of Perturbation Required: 8.145940780639648
+Feature Value in Original Image: -2.744739532470703
+Feature Value in Perturbed Image: -10.616851806640625
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 230
+Feature Name: has_shape::tree-clinging-like
+Perturbation Required: -114.01231888701216
+Fraction of Perturbation Required: 23.5369815826416
+Feature Value in Original Image: -4.843965530395508
+Feature Value in Perturbed Image: -13.7797212600708
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 296
+Feature Name: has_crown_color::purple
+Perturbation Required: 117.19976155512116
+Fraction of Perturbation Required: 12.768771171569824
+Feature Value in Original Image: -9.178625106811523
+Feature Value in Perturbed Image: 0.8142048716545105
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 127
+Feature Name: has_throat_color::olive
+Perturbation Required: 100.37200281129913
+Fraction of Perturbation Required: 12.090901374816895
+Feature Value in Original Image: -8.301448822021484
+Feature Value in Perturbed Image: 6.219391345977783
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 133
+Feature Name: has_throat_color::red
+Perturbation Required: 116.8036862783757
+Fraction of Perturbation Required: 19.58143424987793
+Feature Value in Original Image: -5.96502161026001
+Feature Value in Perturbed Image: 9.235040664672852
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 287
+Feature Name: has_bill_color::pink
+Perturbation Required: -80.8701373814446
+Fraction of Perturbation Required: 19.19637680053711
+Feature Value in Original Image: -4.2127814292907715
+Feature Value in Perturbed Image: -11.954503059387207
+
+Original Class: 012.Yellow_headed_Blackbird
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 256
+Feature Name: has_primary_color::green
+Perturbation Required: 58.802807890288456
+Fraction of Perturbation Required: 6.380360126495361
+Feature Value in Original Image: -9.21622085571289
+Feature Value in Perturbed Image: -1.5425503253936768
+
+Original Class: 012.Yellow_headed_Blackbird
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 198
+Feature Name: has_belly_color::brown
+Perturbation Required: 60.81481640307102
+Fraction of Perturbation Required: 10.136146545410156
+Feature Value in Original Image: -5.999796390533447
+Feature Value in Perturbed Image: 3.8361594676971436
+
+Original Class: 012.Yellow_headed_Blackbird
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 306
+Feature Name: has_crown_color::red
+Perturbation Required: -60.957280822433496
+Fraction of Perturbation Required: 9.86070442199707
+Feature Value in Original Image: -6.181838035583496
+Feature Value in Perturbed Image: -14.10802173614502
+
+Original Class: 012.Yellow_headed_Blackbird
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 177
+Feature Name: has_under_tail_color::orange
+Perturbation Required: 57.78992778044756
+Fraction of Perturbation Required: 7.299378871917725
+Feature Value in Original Image: -7.917101860046387
+Feature Value in Perturbed Image: 0.031116947531700134
+
+Original Class: 012.Yellow_headed_Blackbird
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 188
+Feature Name: has_nape_color::yellow
+Perturbation Required: -53.92836643651241
+Fraction of Perturbation Required: 337.3491516113281
+Feature Value in Original Image: -0.15985921025276184
+Feature Value in Perturbed Image: -8.990894317626953
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 5
+Feature Name: has_bill_shape::spatulate
+Perturbation Required: -129.8080149277771
+Fraction of Perturbation Required: 32.51412582397461
+Feature Value in Original Image: -3.9923574924468994
+Feature Value in Perturbed Image: -16.414939880371094
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 18
+Feature Name: has_wing_color::pink
+Perturbation Required: 136.55132489723212
+Fraction of Perturbation Required: 16.350845336914062
+Feature Value in Original Image: -8.35133171081543
+Feature Value in Perturbed Image: 2.4456703662872314
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 80
+Feature Name: has_upper_tail_color::brown
+Perturbation Required: 131.57147295892622
+Fraction of Perturbation Required: 40.0255126953125
+Feature Value in Original Image: -3.2871901988983154
+Feature Value in Perturbed Image: 6.969483375549316
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 214
+Feature Name: has_wing_shape::broad-wings
+Perturbation Required: -128.07929423921118
+Fraction of Perturbation Required: 57.74623489379883
+Feature Value in Original Image: -2.217967987060547
+Feature Value in Perturbed Image: -10.219718933105469
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 005.Crested_Auklet
+Feature Index: 224
+Feature Name: has_shape::long-legged-like
+Perturbation Required: 130.8291777603509
+Fraction of Perturbation Required: 17.538808822631836
+Feature Value in Original Image: -7.459410667419434
+Feature Value in Perturbed Image: 2.0705082416534424
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 237
+Feature Name: has_back_pattern::spotted
+Perturbation Required: 73.86889468279928
+Fraction of Perturbation Required: 14.618858337402344
+Feature Value in Original Image: -5.0529866218566895
+Feature Value in Perturbed Image: 0.9142160415649414
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 40
+Feature Name: has_underparts_color::brown
+Perturbation Required: 72.83722812791127
+Fraction of Perturbation Required: 17.766860961914062
+Feature Value in Original Image: -4.099611759185791
+Feature Value in Perturbed Image: 2.1851415634155273
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 284
+Feature Name: has_bill_color::yellow
+Perturbation Required: 51.92635127928784
+Fraction of Perturbation Required: 10.190295219421387
+Feature Value in Original Image: -5.095666885375977
+Feature Value in Perturbed Image: 1.4186683893203735
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 133
+Feature Name: has_throat_color::red
+Perturbation Required: 61.211983256027025
+Fraction of Perturbation Required: 10.642862319946289
+Feature Value in Original Image: -5.751458644866943
+Feature Value in Perturbed Image: 0.6104429960250854
+
+Original Class: 010.Red_winged_Blackbird
+Perturbed Class: 009.Brewer_Blackbird
+Feature Index: 159
+Feature Name: has_forehead_color::olive
+Perturbation Required: 53.70534479797274
+Fraction of Perturbation Required: 9.114986419677734
+Feature Value in Original Image: -5.8919830322265625
+Feature Value in Perturbed Image: -0.37232691049575806
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 18
+Feature Name: has_wing_color::pink
+Perturbation Required: -246.76057992068786
+Fraction of Perturbation Required: 48.71632766723633
+Feature Value in Original Image: -5.065254211425781
+Feature Value in Perturbed Image: -16.074840545654297
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 22
+Feature Name: has_wing_color::red
+Perturbation Required: 181.28264236599802
+Fraction of Perturbation Required: 26.923599243164062
+Feature Value in Original Image: -6.733224868774414
+Feature Value in Perturbed Image: 6.0353684425354
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 221
+Feature Name: has_size::very_small_(3_-_5_in)
+Perturbation Required: -135.66401729978898
+Fraction of Perturbation Required: 406.4001770019531
+Feature Value in Original Image: -0.33381879329681396
+Feature Value in Perturbed Image: -17.407695770263672
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 241
+Feature Name: has_tail_pattern::spotted
+Perturbation Required: -248.33282205920648
+Fraction of Perturbation Required: 65.66398620605469
+Feature Value in Original Image: -3.781872272491455
+Feature Value in Perturbed Image: -15.395477294921875
+
+Original Class: 006.Least_Auklet
+Perturbed Class: 010.Red_winged_Blackbird
+Feature Index: 159
+Feature Name: has_forehead_color::olive
+Perturbation Required: -225.7909453921356
+Fraction of Perturbation Required: 59.28634262084961
+Feature Value in Original Image: -3.808481454849243
+Feature Value in Perturbed Image: -20.109039306640625
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 226
+Feature Name: has_shape::owl-like
+Perturbation Required: -48.8943835035204
+Fraction of Perturbation Required: 13.587054252624512
+Feature Value in Original Image: -3.5986006259918213
+Feature Value in Perturbed Image: -12.119732856750488
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 310
+Feature Name: has_wing_pattern::striped
+Perturbation Required: -44.88517564196464
+Fraction of Perturbation Required: 36.49175262451172
+Feature Value in Original Image: -1.2300087213516235
+Feature Value in Perturbed Image: -15.478996276855469
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 281
+Feature Name: has_bill_color::purple
+Perturbation Required: -47.657832460969296
+Fraction of Perturbation Required: 9.913537979125977
+Feature Value in Original Image: -4.807348728179932
+Feature Value in Perturbed Image: -11.023377418518066
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 158
+Feature Name: has_forehead_color::yellow
+Perturbation Required: 49.780089505755775
+Fraction of Perturbation Required: 9.194828033447266
+Feature Value in Original Image: -5.4139227867126465
+Feature Value in Perturbed Image: 8.858250617980957
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 215
+Feature Name: has_wing_shape::tapered-wings
+Perturbation Required: -46.44763040066169
+Fraction of Perturbation Required: 31.517948150634766
+Feature Value in Original Image: -1.4736882448196411
+Feature Value in Perturbed Image: -13.298654556274414
+
+Original Class: 011.Rusty_Blackbird
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 15
+Feature Name: has_wing_color::yellow
+Perturbation Required: -78.49920112555563
+Fraction of Perturbation Required: 26.226150512695312
+Feature Value in Original Image: -2.9931652545928955
+Feature Value in Perturbed Image: -12.540459632873535
+
+Original Class: 011.Rusty_Blackbird
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 118
+Feature Name: has_breast_color::red
+Perturbation Required: -77.97397840617312
+Fraction of Perturbation Required: 13.25686264038086
+Feature Value in Original Image: -5.881782054901123
+Feature Value in Perturbed Image: -13.523979187011719
+
+Original Class: 011.Rusty_Blackbird
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 128
+Feature Name: has_throat_color::green
+Perturbation Required: -69.67650877412127
+Fraction of Perturbation Required: 10.607495307922363
+Feature Value in Original Image: -6.568610191345215
+Feature Value in Perturbed Image: -13.778660774230957
+
+Original Class: 011.Rusty_Blackbird
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 296
+Feature Name: has_crown_color::purple
+Perturbation Required: -78.87455603705459
+Fraction of Perturbation Required: 14.133196830749512
+Feature Value in Original Image: -5.580801010131836
+Feature Value in Perturbed Image: -12.92581844329834
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 17
+Feature Name: has_wing_color::green
+Perturbation Required: 52.23052781903373
+Fraction of Perturbation Required: 7.579899787902832
+Feature Value in Original Image: -6.890661716461182
+Feature Value in Perturbed Image: 0.6453120708465576
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 263
+Feature Name: has_leg_color::blue
+Perturbation Required: -40.14824163899785
+Fraction of Perturbation Required: 10.422576904296875
+Feature Value in Original Image: -3.852045774459839
+Feature Value in Perturbed Image: -10.058999061584473
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 177
+Feature Name: has_under_tail_color::orange
+Perturbation Required: 39.63414471396407
+Fraction of Perturbation Required: 5.4711480140686035
+Feature Value in Original Image: -7.244209289550781
+Feature Value in Perturbed Image: -1.5943926572799683
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 254
+Feature Name: has_primary_color::yellow
+Perturbation Required: -50.95236267303528
+Fraction of Perturbation Required: 16.80630874633789
+Feature Value in Original Image: -3.031740427017212
+Feature Value in Perturbed Image: -10.153623580932617
+
+Original Class: 013.Bobolink
+Perturbed Class: 004.Groove_billed_Ani
+Feature Index: 251
+Feature Name: has_primary_color::purple
+Perturbation Required: -42.672434667972205
+Fraction of Perturbation Required: 10.285367012023926
+Feature Value in Original Image: -4.148849010467529
+Feature Value in Perturbed Image: -13.544807434082031
+
+Original Class: 001.Black_footed_Albatross
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 217
+Feature Name: has_size::large_(16_-_32_in)
+Perturbation Required: -110.73766315333738
+Fraction of Perturbation Required: 95.63787078857422
+Feature Value in Original Image: -1.1578850746154785
+Feature Value in Perturbed Image: -14.843096733093262
+
+Original Class: 001.Black_footed_Albatross
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 113
+Feature Name: has_breast_color::green
+Perturbation Required: 109.85247131999095
+Fraction of Perturbation Required: 10.178187370300293
+Feature Value in Original Image: -10.792930603027344
+Feature Value in Perturbed Image: -1.1445578336715698
+
+Original Class: 001.Black_footed_Albatross
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 195
+Feature Name: has_nape_color::red
+Perturbation Required: -85.1150598718332
+Fraction of Perturbation Required: 26.241790771484375
+Feature Value in Original Image: -3.243492603302002
+Feature Value in Perturbed Image: -11.002381324768066
+
+Original Class: 001.Black_footed_Albatross
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 298
+Feature Name: has_crown_color::grey
+Perturbation Required: -82.05158100237358
+Fraction of Perturbation Required: 117.33805847167969
+Feature Value in Original Image: -0.6992750763893127
+Feature Value in Perturbed Image: -13.252676010131836
+
+Original Class: 001.Black_footed_Albatross
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 186
+Feature Name: has_nape_color::rufous
+Perturbation Required: -112.25498662946937
+Fraction of Perturbation Required: 19.534196853637695
+Feature Value in Original Image: -5.746588230133057
+Feature Value in Perturbed Image: -14.068645477294922
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 281
+Feature Name: has_bill_color::purple
+Perturbation Required: -59.524774071447965
+Fraction of Perturbation Required: 10.612390518188477
+Feature Value in Original Image: -5.608988285064697
+Feature Value in Perturbed Image: -11.807792663574219
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 293
+Feature Name: has_crown_color::blue
+Perturbation Required: 70.65133861897442
+Fraction of Perturbation Required: 13.98167610168457
+Feature Value in Original Image: -5.05313777923584
+Feature Value in Perturbed Image: 10.022475242614746
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 158
+Feature Name: has_forehead_color::yellow
+Perturbation Required: 62.17547941386806
+Fraction of Perturbation Required: 9.630425453186035
+Feature Value in Original Image: -6.456151008605957
+Feature Value in Perturbed Image: 9.142004013061523
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 215
+Feature Name: has_wing_shape::tapered-wings
+Perturbation Required: -58.0132281093103
+Fraction of Perturbation Required: 23.775882720947266
+Feature Value in Original Image: -2.4400031566619873
+Feature Value in Perturbed Image: -16.295913696289062
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 226
+Feature Name: has_shape::owl-like
+Perturbation Required: -61.069229990544756
+Fraction of Perturbation Required: 10.216155052185059
+Feature Value in Original Image: -5.9777116775512695
+Feature Value in Perturbed Image: -12.178635597229004
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 226
+Feature Name: has_shape::owl-like
+Perturbation Required: -54.69524201312532
+Fraction of Perturbation Required: 13.211629867553711
+Feature Value in Original Image: -4.139931678771973
+Feature Value in Perturbed Image: -11.218055725097656
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 281
+Feature Name: has_bill_color::purple
+Perturbation Required: -53.31198582524343
+Fraction of Perturbation Required: 15.447041511535645
+Feature Value in Original Image: -3.4512746334075928
+Feature Value in Perturbed Image: -9.026296615600586
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 310
+Feature Name: has_wing_pattern::striped
+Perturbation Required: -50.21037936519097
+Fraction of Perturbation Required: 47.42118835449219
+Feature Value in Original Image: -1.0588173866271973
+Feature Value in Perturbed Image: -16.748926162719727
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 158
+Feature Name: has_forehead_color::yellow
+Perturbation Required: 55.68602869808789
+Fraction of Perturbation Required: 13.530082702636719
+Feature Value in Original Image: -4.115719795227051
+Feature Value in Perturbed Image: 11.978667259216309
+
+Original Class: 003.Sooty_Albatross
+Perturbed Class: 008.Rhinoceros_Auklet
+Feature Index: 215
+Feature Name: has_wing_shape::tapered-wings
+Perturbation Required: -51.95820467840595
+Fraction of Perturbation Required: 66.4010238647461
+Feature Value in Original Image: -0.7824910879135132
+Feature Value in Perturbed Image: -15.366968154907227
+
+Original Class: 011.Rusty_Blackbird
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 6
+Feature Name: has_bill_shape::all-purpose
+Perturbation Required: -77.88374701043062
+Fraction of Perturbation Required: 97.63729858398438
+Feature Value in Original Image: -0.797684371471405
+Feature Value in Perturbed Image: -8.722772598266602
+
+Original Class: 011.Rusty_Blackbird
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 12
+Feature Name: has_wing_color::purple
+Perturbation Required: 98.30761154208493
+Fraction of Perturbation Required: 13.125606536865234
+Feature Value in Original Image: -7.489757537841797
+Feature Value in Perturbed Image: 2.3287179470062256
+
+Original Class: 011.Rusty_Blackbird
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 57
+Feature Name: has_breast_pattern::multi-colored
+Perturbation Required: 88.84774523206838
+Fraction of Perturbation Required: 20.721567153930664
+Feature Value in Original Image: -4.287694454193115
+Feature Value in Perturbed Image: 6.330399036407471
+
+Original Class: 011.Rusty_Blackbird
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 298
+Feature Name: has_crown_color::grey
+Perturbation Required: -83.82969181181603
+Fraction of Perturbation Required: 152.254638671875
+Feature Value in Original Image: -0.5505887269973755
+Feature Value in Perturbed Image: -12.415388107299805
+
+Original Class: 011.Rusty_Blackbird
+Perturbed Class: 007.Parakeet_Auklet
+Feature Index: 245
+Feature Name: has_belly_pattern::spotted
+Perturbation Required: -92.50870886011936
+Fraction of Perturbation Required: 26.0684814453125
+Feature Value in Original Image: -3.548680067062378
+Feature Value in Perturbed Image: -17.571523666381836
+
