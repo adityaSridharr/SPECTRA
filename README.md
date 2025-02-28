@@ -46,7 +46,7 @@ This project was developed by **Aditya Sridhar and Ananya Varshney** as part of 
 For inquiries, please reach out to:
 
 - **Aditya Sridhar** - aditya.sridharr.11@gmail.com
-- **GitHub**: [your-github-profile](https://github.com/adityaSridharr)
+- **GitHub**: [My GitHub profile](https://github.com/adityaSridharr)
 
 
 This `README.md` provides a clear introduction, methodology, usage instructions, and repository structure for your project. Let me know if you’d like any modifications!
